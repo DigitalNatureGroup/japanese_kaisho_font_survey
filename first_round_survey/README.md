@@ -1,5 +1,5 @@
 # File explanation
-## second_round_rankings.csv
+## first_round_rankings.csv
 Ranking of the 99 brush Kaisho fonts by the three respondent demographics (All participants, All experiencers, and All Dan-holders)
 
 ## first_round_result.csv
